@@ -1,0 +1,80 @@
+            
+           .navbar
+           {
+               position: absolute;
+               width: 100%;
+               text-align: center;
+           }
+
+           .navbar p
+           {
+              text-align: center;
+              margin-left: 30%;
+           }
+            .imgg
+            {
+                width: 100%;
+                float: left;
+            }
+            .main
+            {
+                margin:2%;
+                width: 90%;
+            }
+            .basic_info
+            {
+                float: LEFT;
+                background-color:#eff2f7;
+                width:75%;
+                margin-left: 2%;
+                padding: 1%;
+            }
+            .img_contact
+            {
+                width: auto;
+                height: auto;
+            }
+            img
+            {
+                float: left;
+            }
+           
+            .contact
+            {
+                margin-top: 10px;
+                float: ;
+                margin-left: 2%;
+            }
+            .hobbies
+            {
+                margin-top: 500px;
+            }   
+
+
+            .content
+            {
+                background-color: #eff2f7;
+                padding: 2%;
+                height:35%;
+                
+            }
+
+            .img_details
+            {
+               margin-top: 8%;
+                margin-right: 2%;
+                padding: 2%;
+            }
+
+            .img_details img
+            {
+                width: 200px;
+
+            }
+
+             .contact
+            {
+                margin-top: 10px;
+                float: left;
+                margin-left: 2%;
+            }
